@@ -19,7 +19,7 @@ export default function Home() {
                 <br />
                 <p>
                     Magische groeten! En tot dan! <br />
-                    Mede mogelijk gemaakt door de tover-organisatie van Oldmansforest '22 en Fam. Makkinje
+                    Mede mogelijk gemaakt door de tover-organisatie van Oldmansforest &apos;22 en Fam. Makkinje
                 </p>
             </div>
 
